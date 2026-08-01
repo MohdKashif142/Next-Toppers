@@ -81,20 +81,16 @@ npm run dev
 ## Screenshots
 
 ### Home Page
-
-![Home](screenshots/Home.png)
+![Home](Screenshots/home.png)
 
 ### Sign In
-
-![Sign In](screenshots/Sign-in.png)
+![Sign In](Screenshots/signin.png)
 
 ### Sign Up
-
-![Sign Up](screenshots/Sign-up.png)
+![Sign Up](Screenshots/signup.png)
 
 ### Become a Mentor
-
-![Mentor](screenshots/Mentor.png)
+![Mentor](Screenshots/mentor.png)
 
 ## Environment Variables
 
