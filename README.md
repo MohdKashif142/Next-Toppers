@@ -81,7 +81,7 @@ npm run dev
 ## Screenshots
 
 ### Home Page
-![Home](Screenshots/home.png)
+![Home](Screenshots/Home.png)
 
 ### Sign In
 ![Sign In](Screenshots/signin.png)
@@ -90,7 +90,7 @@ npm run dev
 ![Sign Up](Screenshots/signup.png)
 
 ### Become a Mentor
-![Mentor](Screenshots/mentor.png)
+![Mentor](Screenshots/Mentor.png)
 
 ## Environment Variables
 
